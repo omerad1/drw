@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T17:11:51.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3poSPnqN5eG-r4TqcFYQ" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T17:15:08.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="77QvL3rA0nyFCq-eHj1A" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2261" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -492,12 +492,10 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TIuvOmEfhRoQdAGOMbNV-33" value="- manager : ShipmentManagerFacade" style="text;labelBackgroundColor=none;fontColor=#1D3557;rounded=1;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=13;horizontal=1;" parent="TIuvOmEfhRoQdAGOMbNV-32" vertex="1">
-          <mxGeometry y="50" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TIuvOmEfhRoQdAGOMbNV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;entryX=0.507;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=13;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TIuvOmEfhRoQdAGOMbNV-33" target="1YX3O5atT9joZC8HnzX4-108" edge="1">
+        <mxCell id="TIuvOmEfhRoQdAGOMbNV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;entryX=0.507;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=13;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="1YX3O5atT9joZC8HnzX4-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="377.5" y="-940" as="targetPoint" />
+            <mxPoint x="377.5" y="-1020" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TIuvOmEfhRoQdAGOMbNV-37" value="1" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;fontStyle=1;fontSize=13;horizontal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
