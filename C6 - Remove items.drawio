@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T19:23:19.496Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FhEekTPmkFy6XdUsG4ni" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T19:25:01.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JNjQQLXlXcO_NQY6SQJT" version="21.2.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="2699" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="FTDdUt2VMNyNh04fNACb-10" value="if current_site_items is empty" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-30" y="280" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FTDdUt2VMNyNh04fNACb-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="FTDdUt2VMNyNh04fNACb-13">
+        <mxCell id="FTDdUt2VMNyNh04fNACb-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=-0.003;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FTDdUt2VMNyNh04fNACb-13" target="FTDdUt2VMNyNh04fNACb-193">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="320" as="sourcePoint" />
             <mxPoint x="-140" y="320" as="targetPoint" />
@@ -258,7 +258,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTDdUt2VMNyNh04fNACb-122" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTDdUt2VMNyNh04fNACb-122" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-20" y="360" width="810" height="770" as="geometry" />
         </mxCell>
         <mxCell id="FTDdUt2VMNyNh04fNACb-123" value="shipping_pair in current_site_items" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -410,7 +410,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTDdUt2VMNyNh04fNACb-193" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="FTDdUt2VMNyNh04fNACb-193" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-210" y="90" width="1580" height="1550" as="geometry" />
         </mxCell>
         <mxCell id="FTDdUt2VMNyNh04fNACb-194" value="while want_to_remove = true&lt;br&gt;do:&amp;nbsp;" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
